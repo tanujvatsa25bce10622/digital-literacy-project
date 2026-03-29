@@ -24,5 +24,5 @@
 
 If you or someone you know falls victim to a digital scam, report it immediately:
 
-**National Cyber Crime Reporting Portal**: [Your Link Here](https://example.com)  
+**National Cyber Crime Reporting Portal**
 **National Helpline Number**: 1930
